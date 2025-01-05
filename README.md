@@ -2,12 +2,16 @@
 
 https://www.bilibili.com/video/BV1iHbueDEaw/
 
-## Install
+## Install_0
 
 ```
 cargo install bili-live
 ```
 
+
+## Install（win10_amd64）
+下载releases里编译好的
+(可能有问题^_^)
 ## Usage
 ```
 A command line tool for starting and stopping live streams on bilibili.com, capable of providing the RTMP address and stream key for streaming software such as OBS.
